@@ -6,5 +6,5 @@ References:
 Anxious or Angry - Effects of Discrete Emotions on the Perceived Helpfulness of Online Reviews - Dezhi Yin et al  
 Deriving the Pricing Power of Product Features by Mining Consumer Reviews - Nikolay Archak et al
 
-Contributors:\n
+Contributors:  
 Shen Xie, Zhizhe Liu, Chuyu Xu, Niehua Yang, Huanhuan Lan, Nanling Chen 
