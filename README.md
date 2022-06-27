@@ -7,4 +7,6 @@ Anxious or Angry - Effects of Discrete Emotions on the Perceived Helpfulness of 
 Deriving the Pricing Power of Product Features by Mining Consumer Reviews - Nikolay Archak et al
 
 Contributors:  
-Shen Xie, Zhizhe Liu, Chuyu Xu, Niehua Yang, Huanhuan Lan, Nanling Chen 
+Shen Xie, Zhizhe Liu, Chuyu Xu, Niehua Yang, Huanhuan Lan, Nanling Chen  
+
+感谢高宝俊老师、王佳雯师姐、谭飙师兄的指导与各位老师的教学与点评
