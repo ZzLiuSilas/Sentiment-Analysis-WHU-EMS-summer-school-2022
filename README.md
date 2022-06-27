@@ -1,5 +1,5 @@
 # Sentiment-Analysis-WHU-EMS-summer-school-2022
-武汉大学 经济与管理学院 第五届商业大数据分析与因果推断暑期学校1小组作业  
+武汉大学 经济与管理学院 第五届商业大数据分析与因果推断暑期学校 1小组项目展示  
 基于R语言  
 
 References:  
